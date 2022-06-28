@@ -1,5 +1,9 @@
-# Leetcode-Solutions
+# **Leetcode-Solutions**
 
-### Solutions to few of the Leetcode problems
+## **Solutions to few of the Leetcode problems**
 
-### - Starting of with top interview questions
+---
+
+### - Top Interview Questions
+
+### - Problem of the day (June)
